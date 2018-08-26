@@ -6,7 +6,4 @@ El principal objetivo es recompilar y tener presente que es lo que ha cambiado e
 Por favor, sientanse libres en agregar mas.
 
 # Sitio de referencia
-- [https://tosdr.org/#][1]
-
-
-[1]. https://tosdr.org/#
+- https://tosdr.org/#
